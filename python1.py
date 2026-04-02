@@ -1,3 +1,0 @@
-## print output
-
-print("Taha")
